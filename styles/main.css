@@ -29,7 +29,7 @@ body {
 	width: 50%;
 	margin: 1em auto;
 	border: 3px solid #931420;
-	background-color: white;
+    background-color: #ffebc6
 }
 
 
@@ -137,6 +137,10 @@ section {
     width: 70%;
     float: right;
 }
+section p {
+    background-color: #ffebc6
+}
+
 section h1  {
     border-bottom: 3px solid #931420;
     margin-top: 2px;
@@ -159,6 +163,7 @@ article p {
     text-align: left;
     margin: 5px;
     display: ;
+    background-color: #ffebc6
 }
 h2 {
     margin-top:20px;
@@ -175,6 +180,7 @@ aside {
     padding: 0;
 }
 /* the styles for the footer */
+
 footer p {
     clear: both;
 	background-color: #931420;
